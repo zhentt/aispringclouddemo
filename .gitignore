@@ -1,0 +1,9 @@
+
+configserver/target/generated-sources/
+
+eurekaserver/target/generated-sources/
+
+menu/target/generated-sources/
+
+order/target/generated-sources/
+/.idea/
